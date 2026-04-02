@@ -1,4 +1,4 @@
-# IoT Healthcare Monitor - Team TechNova
+# IoT Healthcare Monitor 
 
 An ESP32-powered wearable system designed for real-time health monitoring and emergency detection.
 
